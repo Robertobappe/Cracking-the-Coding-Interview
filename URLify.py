@@ -9,3 +9,4 @@ class Solution:
 
 sol = Solution()
 rel = sol.replaceSpace("Mr John Smith      ")
+
